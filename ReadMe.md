@@ -348,10 +348,15 @@ pytest -v
 ---
 
 ## 👩‍💻 Team
+- T Jayashree Indrani
+- Anisha Paturi
+- Sravani Janak
 
-- Anisha  
-- Sravani  
-- Jayashree  
+**My Contributions:**
+- Designed backend pipeline (orchestrator, verification flow)
+- Integrated OpenRouter + Tavily APIs
+- Implemented claim extraction and verification modules
+- Built core FastAPI services
 
 ---
 
