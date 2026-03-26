@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+sqlalchemy
+pydantic
+reportlab
+pytz
+passlib[bcrypt]
+bcrypt==4.0.1
