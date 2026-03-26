@@ -348,11 +348,15 @@ pytest -v
 ---
 
 ## 👩‍💻 Team
+- T Jayashree Indrani
+- Anisha Paturi
+- Sravani Janak
 
-- Anisha  
-- Sravani  
-- Jayashree  
-
+**My Contributions:**
+- Implemented key features including claim extraction, verification flow, and result display  
+- Worked on integrating APIs (OpenRouter, Tavily) within the application pipeline  
+- Developed frontend components for user interaction and result visualization  
+- Contributed to feature development, debugging, and overall system integration  
 ---
 
 ## 🏆 Conclusion
