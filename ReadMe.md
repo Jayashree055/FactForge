@@ -353,11 +353,10 @@ pytest -v
 - Sravani Janak
 
 **My Contributions:**
-- Designed backend pipeline (orchestrator, verification flow)
-- Integrated OpenRouter + Tavily APIs
-- Implemented claim extraction and verification modules
-- Built core FastAPI services
-
+- Implemented key features including claim extraction, verification flow, and result display  
+- Worked on integrating APIs (OpenRouter, Tavily) within the application pipeline  
+- Developed frontend components for user interaction and result visualization  
+- Contributed to feature development, debugging, and overall system integration  
 ---
 
 ## 🏆 Conclusion
